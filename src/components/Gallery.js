@@ -25,6 +25,7 @@ export default function Gallery(props) {
   return (
 
     <section className='container'>
+      <h2 className="gallery-title">Our Collection of Buzzwords</h2>
       <div className='gallery-container'>
         {props.pics.map(pics => (
           <div className='gallery-box' >

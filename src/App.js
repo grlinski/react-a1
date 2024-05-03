@@ -1,5 +1,5 @@
-import './App.css';
-import './index.css';
+import './assets/style/App.css';
+import './assets/style/index.css';
 
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -8,6 +8,7 @@ import Banner from './components/Banner';
 
 
 //Pics
+//pictures won't load without doing this first
 import aware from './assets/img/aware.jpg';
 import blockchain from './assets/img/bc2.jpg';
 import generation from './assets/img/gen.jpg';
@@ -45,19 +46,14 @@ function App() {
 
   return (
     <div className="App">
-
       <Header></Header>
       <Banner herobg='hero-bg' heroheader='hero-header' herotext='hero-text'
         primarybtn='primary-button' secondarybtn='secondary-button'
         text="Synergizing the paradigm shift"
-        title="Progress through buzzwords"
-        >
+        title="Progress through buzzwords">
       </Banner>
-      <Gallery pics={images}>
-
-      </Gallery>
+      <Gallery pics={images}></Gallery>
       <Footer></Footer>
-
     </div>
   );
 }

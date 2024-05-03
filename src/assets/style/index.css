@@ -48,6 +48,7 @@ header {
 }
 
 .gabe-logo {
+  margin-top: 3px;
   height: 70px;
   background-repeat: no-repeat;
 }
@@ -122,6 +123,10 @@ button:hover {
   justify-content: space-around;
 }
 
+.gallery-title {
+  margin-top: 10px;
+}
+
 .gallery-box {
   padding: 10px;
   width: 22%;
@@ -160,7 +165,7 @@ button:hover {
 ******************************************************************************/
 
 footer {
-  background-color: #f7f7f7;
+  background-color: #eaeaea;
   height: 60px;
   display: flex;
   align-items: center;
