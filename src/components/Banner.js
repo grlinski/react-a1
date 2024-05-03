@@ -1,6 +1,6 @@
 
 
- function Banner(props) {
+export default function Banner(props) {
 
   return(
 
@@ -16,10 +16,3 @@
     </section>
   )
 }
-
-
-
-//Progress through buzzwords
-//Synergizing the paradigm shift
-export default Banner;
-
