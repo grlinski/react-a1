@@ -1,29 +1,7 @@
 
 
-
-// export default function Gallery(props) {
-//   return (
-
-//     <section className='container'>
-//       <div className='gallery-container'>
-//         {props.pics.map((pics,index) => (
-//           <div className='gallery-box'>
-//             <img key={index} src={pics}></img>
-//           </div>
-//           ))}
-
-//       </div>
-//     </section>
-
-    
-//   )
-// }
-
-
-
 export default function Gallery(props) {
   return (
-
     <section className='container'>
       <h2 className="gallery-title">Our Collection of Buzzwords</h2>
       <div className='gallery-container'>
@@ -36,8 +14,6 @@ export default function Gallery(props) {
           ))}
       </div>
     </section>
-
-    
   )
 }
 

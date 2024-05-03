@@ -6,7 +6,6 @@ import Footer from './components/Footer';
 import Gallery from './components/Gallery';
 import Banner from './components/Banner';
 
-
 //Pics
 //pictures won't load without doing this first
 import aware from './assets/img/aware.jpg';
@@ -14,7 +13,7 @@ import blockchain from './assets/img/bc2.jpg';
 import generation from './assets/img/gen.jpg';
 import thought from './assets/img/thought.jpg';
 
-function App() {
+export default function App() {
 
   const images = [
     {
@@ -43,7 +42,6 @@ function App() {
     }
   ];
 
-
   return (
     <div className="App">
       <Header></Header>
@@ -57,4 +55,4 @@ function App() {
     </div>
   );
 }
-export default App;
+

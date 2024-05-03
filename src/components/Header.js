@@ -7,7 +7,6 @@ import plus from '../assets/img/plus.png';
 export default function Header() {
   return (
     <header className='container'>
-
       <img className='gabe-logo' src={logo} alt="Logo" />
       <div>
         <img className='icon' src={user} alt="Logo" />

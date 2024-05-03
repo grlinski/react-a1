@@ -139,26 +139,27 @@ button:hover {
   p {
     text-align: left;
   }
+
+  .title {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+  .description {
+    margin-top: 5px;
+  }
+
+  img {
+    height: 300px;
+    width: 100%;
+    border-radius: 10px;
+  }
 }
 
 .gallery-box:hover {
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
 }
 
-.gallery-box img {
-  height: 300px;
-  width: 100%;
-  border-radius: 10px;
-}
-
-.gallery-box .title {
-  font-weight: bold;
-  margin-top: 10px;
-}
-
-.gallery-box .description {
-  margin-top: 5px;
-}
 
 /******************************************************************************
                         Footer
@@ -170,5 +171,5 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 10px;
+  margin-top: 20px;
 }
