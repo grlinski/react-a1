@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/react-a1/static/css/main.83ed7112.css",
-    "main.js": "/react-a1/static/js/main.53bf1174.js",
-    "static/js/453.2f84dde8.chunk.js": "/react-a1/static/js/453.2f84dde8.chunk.js",
+    "main.css": "/react-a1/static/css/main.48a51613.css",
+    "main.js": "/react-a1/static/js/main.d9ab14c4.js",
     "static/media/gen.jpg": "/react-a1/static/media/gen.287b0952f7946946b4d3.jpg",
     "static/media/thought.jpg": "/react-a1/static/media/thought.67026ec386edbe9d83fe.jpg",
     "static/media/aware.jpg": "/react-a1/static/media/aware.0e7b28b2a2adc41f8651.jpg",
@@ -12,12 +11,11 @@
     "static/media/user.png": "/react-a1/static/media/user.c920752422c11377083e.png",
     "static/media/plus.png": "/react-a1/static/media/plus.de5108eee4fc839cf66f.png",
     "index.html": "/react-a1/index.html",
-    "main.83ed7112.css.map": "/react-a1/static/css/main.83ed7112.css.map",
-    "main.53bf1174.js.map": "/react-a1/static/js/main.53bf1174.js.map",
-    "453.2f84dde8.chunk.js.map": "/react-a1/static/js/453.2f84dde8.chunk.js.map"
+    "main.48a51613.css.map": "/react-a1/static/css/main.48a51613.css.map",
+    "main.d9ab14c4.js.map": "/react-a1/static/js/main.d9ab14c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.83ed7112.css",
-    "static/js/main.53bf1174.js"
+    "static/css/main.48a51613.css",
+    "static/js/main.d9ab14c4.js"
   ]
 }
