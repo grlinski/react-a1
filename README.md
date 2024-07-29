@@ -1,2 +1,2 @@
 # Gabetecha's Buzzword Implementer
-[Website](https://gl-school.github.io/react-a1/)
+[Website](https://grlinski.github.io/react-a1/)
